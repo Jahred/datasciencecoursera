@@ -7,6 +7,7 @@ __You run the run_analysis.R script. For instance with the call: resultsOfAnalys
 ## Instructions:
 First, clone this Git repository.
 In RStudio set your working directory to datasciencecoursera/courseproject:
+The Data file of Samsung must be copied into this directory.
 Open the script run_analysis.R.
 select all the code lines and click run.
  
